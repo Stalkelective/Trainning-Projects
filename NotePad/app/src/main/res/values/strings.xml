@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="submit">SUBMIT</string>
+    <string name="save_note">Save Note</string>
+    <string name="enter_notes">Enter Notes</string>
+    <string name="enter_date">Enter DATE</string>
+    <string name="notes">NOTES</string>
+</resources>
