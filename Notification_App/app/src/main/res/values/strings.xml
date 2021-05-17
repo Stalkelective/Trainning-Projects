@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification_App</string>
+    <string name="aman_sarjal">AMAN SARJAL</string>
+    <string name="button">Button</string>
+    <string name="astronaut">ASTRONAUT</string>
+    <string name="zzp">zzp</string>
+    <string name="hi_your_notification_view_goes_here">HI YOUR NOTIFICATION VIEW GOES HERE</string>
+    <string name="channel_1">Channel 1</string>
+</resources>
