@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DigiClock</string>
+    <string name="clock">clock</string>
+    <string name="min">:</string>
+    <string name="sec">Seconds</string>
+    <string name="day">Days</string>
+    <string name="hours">:</string>
+    <string name="clock1">CLOCK</string>
+
+
+</resources>
