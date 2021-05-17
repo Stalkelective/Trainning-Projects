@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Different_layouts</string>
+    <string name="text">HARRY-BHAI</string>
+    <string name="botton">SIGNUP</string>
+    <string name="login">LOGIN</string>
+    <string name="create">CREATE</string>
+    <string name="crop">CROP</string>
+    <string name="hint">US-LESS</string>
+    <string name="string_apply" > START </string>
+    <string name="quote">THIS UI IS MADE USING--LinearLayout(horizontal),
+        LinearLayout(vertical),TableRow</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+    <string name="xtart">START</string>
+    <string name="todo">TODO</string>
+</resources>
