@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text_Img_Widget</string>
+   <string name="quote">
+       This procedure describes the steps a manager should use when reviewing current job description with employee.
+       The job description should be reviewed with the employee in the position on a regular basis.
+   </string>
+    <string name="todo">TODO</string>
+</resources>
