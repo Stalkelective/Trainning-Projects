@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALT_RES</string>
+    <string name="screen_size"> Screen Size=large</string>
+    <string name="screen_size1">Screen Size= normal </string>
+    <string name="screen_size2">Screen Size= small </string>
+    <string name="screen_size4">Screen Size= xlarge </string>
+    <string name="screen_size5"> Screen Size=xlarge-notlong-xhdpi</string>
+</resources>
