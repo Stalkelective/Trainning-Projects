@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="wish_me">WISH ME</string>
+    <string name="positivebtn">OK</string>
+    <string name="negativentn">Cancel</string>
+
+
+
+</resources>
