@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="lichi">Lichi</string>
+    <string name="grapes">Grapes</string>
+    <string name="show_movie_name">Show Movie Name</string>
+    <string name="kiwi">kiwi</string>
+    <string name="show_fruit_name">Show Fruit Name</string>
+    <string name="close_app">Close App</string>
+    <string name="tenet">Tenet</string>
+    <string name="euro_trip">Euro Trip</string>
+    <string name="lord_of_the_rings">Lord Of The Rings</string>
+    <string name="justiceleague_snyder_cut">JusticeLeague:Snyder Cut</string>
+    <string name="mangoes">Mangoes</string>
+    <string name="apple">Apple</string>
+    <string name="pro">Pro</string>
+    <string name="menu">Menu</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/appbaricon"
+        android:title="@string/pro"
+        android:icon="@drawable/apple"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/fruit"
+        android:title="@string/show_fruit_name">
+        <menu>
+            <item
+                android:id="@+id/apple"
+                android:title="@string/apple"
+                />
+            <item
+                android:id="@+id/mango"
+                android:title="@string/mangoes" />
+            <item
+                android:id="@+id/litchi"
+                android:title="@string/lichi" />
+            <item
+                android:id="@+id/grape"
+                android:title="@string/grapes" />
+            <item
+                android:id="@+id/kiwi"
+                android:title="@string/kiwi" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/movie"
+        android:title="@string/show_movie_name">
+        <menu>
+            <item
+                android:id="@+id/tenet"
+                android:icon="@drawable/tenet"
+                android:title="@string/tenet" />
+            <item
+                android:id="@+id/just"
+                android:icon="@drawable/justiceleague"
+                android:title="@string/justiceleague_snyder_cut" />
+            <item
+                android:id="@+id/lord"
+                android:icon="@drawable/lort"
+                android:title="@string/lord_of_the_rings" />
+            <item
+                android:id="@+id/eurotrip"
+                android:icon="@drawable/eurotrip"
+                android:title="@string/euro_trip" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/close"
+        android:title="@string/close_app" />
+</menu>
