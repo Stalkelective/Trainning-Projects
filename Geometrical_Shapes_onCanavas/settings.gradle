@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Geometrical_Shapes_onCanavas"
