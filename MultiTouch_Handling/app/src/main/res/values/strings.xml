@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiTouch_Handling</string>
+    <string name="no_of_finger">No. of Finger Touching:</string>
+    <string name="no_of_finger_removed">No. of finger removed:</string>
+</resources>
