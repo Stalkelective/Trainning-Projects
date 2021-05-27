@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">DoodleApp</string>
-    <string name="color">Color</string>
-    <string name="save">SAVE</string>
-    <string name="linewidth">LineWidth</string>
-    <string name="erase">Erase</string>
-    <string name="clear">Clear</string>
-</resources>
