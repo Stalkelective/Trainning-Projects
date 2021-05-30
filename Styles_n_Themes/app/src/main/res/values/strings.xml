@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Styles_n_Themes</string>
+    <string name="innodeed">innodeed</string>
+    <string name="todo">TODO</string>
+
+    <string name="textview">TextView</string>
+</resources>
