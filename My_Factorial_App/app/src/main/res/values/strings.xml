@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Factorial_App</string>
+    <string name="factorial_calculator">FACTORIAL CALCULATOR</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+</resources>
