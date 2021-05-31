@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTask_EXP</string>
+    <string name="enter_second_no">Enter Second No.</string>
+    <string name="name">Name</string>
+    <string name="enter_first_no">Enter First No.</string>
+    <string name="multiplication">Multiplication</string>
+</resources>
