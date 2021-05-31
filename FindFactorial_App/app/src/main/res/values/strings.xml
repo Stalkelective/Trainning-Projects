@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FindFactorial_App</string>
+    <string name="enter_st_no">Enter !st NO.</string>
+    <string name="enter_2nd_no">Enter 2nd No.</string>
+    <string name="result">Result</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="enter_number">Enter Number</string>
+</resources>
