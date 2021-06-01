@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmInTen</string>
+    <string name="notify_in_10">Notify In 10\'\'</string>
+</resources>
