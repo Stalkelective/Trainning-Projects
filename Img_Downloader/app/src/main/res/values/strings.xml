@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Img_Downloader</string>
+    <string name="enter_image_url">Enter Image URL</string>
+    <string name="downloaded_image_display_output">DownLoaded Image Display Output</string>
+    <string name="download_image">Download Image</string>
+    <string name="image_downloader">IMAGE DOWNLOADER</string>
+</resources>
