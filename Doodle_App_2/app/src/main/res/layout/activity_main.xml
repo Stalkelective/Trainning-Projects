@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.innodeed.doodle_app_2.DrawingView
+    <com.DoodleApp.doodle_app_2.DrawingView
         android:id="@+id/DrawingView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -18,7 +18,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0">
 
-    </com.innodeed.doodle_app_2.DrawingView>
+    </com.DoodleApp.doodle_app_2.DrawingView>
 
     <ImageView
         android:id="@+id/imageView"
