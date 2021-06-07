@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Doodle_App_2</string>
+    <string name="savebtton">savebtton</string>
+    <string name="imageoutput">imageOutput</string>
+    <string name="save">SAVE</string>
+    <string name="clear">CLEAR</string>
+    <string name="share_drawing">Share Drawing</string>
+</resources>

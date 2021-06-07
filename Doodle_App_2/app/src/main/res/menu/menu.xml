@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="@string/share_drawing"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/clearID"
+        android:icon="@drawable/ic_baseline_cleaning_services_24"
+        android:title="@string/clear"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/saveID"
+        android:icon="@drawable/ic_baseline_save_24"
+        android:title="@string/save"
+        app:showAsAction="always" />
+ <!--
+ <item
+        android:id="@+id/brushID"
+        android:icon="@drawable/ic_baseline_brush_24"
+        android:title="BRUSHSIZE"
+        app:showAsAction="always" />
+        -->
+</menu>
