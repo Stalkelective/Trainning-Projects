@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Doodle_App_2"
